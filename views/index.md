@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>建安文学</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   </head>
   <body>
     <h1>七步诗</h1>
