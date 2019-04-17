@@ -8,8 +8,8 @@ body {
     height: 100%;
 }
 @keyframes myIframe {
-    from {background: blue}
-    to {background: greenyellow}
+    from {opacity: 0}
+    to {opacity: 100}
 }
 .div1 {
     width: 200px;
